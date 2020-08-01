@@ -4,12 +4,25 @@
 (setq inhibit-splash-screen t)
 ;; Time in modeline
 (display-time-mode 1)
+;; package initialize
+(require 'package)
+(setq package-enable-at-startup nil)
+(add-to-list 'package-archives
+	     '("melpa" . "https://melpa.org/packages/"))
+(package-initialize)
+
+(unless (package-installed-p 'use-package)
+  (package-refresh-contents)
+  (package-install 'use-package))
+
+(use-package which-key
+  :ensure t
+  :init
+  (which-key-mode))
+
 ;; Enable transient mark mode
 (transient-mark-mode 1)
-(package-initialize)
-(setq package-enable-at-at-startup nil)
-;; Backups
-(setq backup-directory-alist '(("." . "~/.emacs.d/backups")))
+
 ;;;;org-mode configuration
 ;; Enable org-mode
 (require 'org)
@@ -25,61 +38,73 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(beacon-blink-when-buffer-changes t)
- '(beacon-blink-when-point-moves-vertically 3)
- '(beacon-mode t)
- '(column-number-mode t)
- '(display-line-numbers t)
- '(display-time-mode t)
- '(erc-auto-query (quote frame))
- '(erc-frame-dedicated-flag t)
- '(erc-join-buffer (quote window))
- '(erc-minibuffer-notice nil)
- '(erc-modules
-   (quote
-    (autojoin button completion fill irccontrols keep-place list match menu move-to-prompt netsplit networks noncommands readonly ring services stamp track)))
- '(erc-nick "tmoneythebard")
- '(erc-nickserv-identify-mode (quote both))
- '(erc-nickserv-passwords (quote ((freenode (("tmoneythebard" . "M@rch262019"))))))
  '(org-agenda-files
    (quote
-    ("c:/Users/trava/OneDrive/Documents/Org/mylife.org")))
+    ("c:/Users/trava_000/OneDrive/Documents/Org/mylife.org")))
+ '(org-capture-templates nil)
+ '(org-habit-show-habits t)
+ '(org-modules
+   (quote
+    (org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m org-checklist)))
+ '(package-selected-package (quote (which-key use-package))))
+ '(column-number-mode t)
+ '(default
+    ((t
+      (:inherit nil :stipple nil :background "SystemWindow" :foreground "SystemWindowText" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 120 :width normal :foundry "outline" :family "OCR A Extended"))))
+ '(display-time-mode t)
+ '(org-agenda-done ((t (:foreground "ForestGreen" :strike-through "red"))))
+ '(org-agenda-files
+   (quote
+    ("c:/Users/trava_000/OneDrive/Documents/Org/mylife.org")))
+ '(org-agenda-skip-additional-timestamps-same-entry nil)
+ '(org-agenda-skip-scheduled-if-deadline-is-shown (quote not-today))
+ '(org-agenda-skip-timestamp-if-done t)
+ '(org-agenda-start-on-weekday 0)
  '(org-capture-bookmark nil)
  '(org-capture-templates
    (quote
     (("b" "Add a Book to Reading List" entry
-      (file+headline "c:/Users/trava/OneDrive/Documents/Org/mylife.org" "Books")
-      (file "c:/Users/trava/OneDrive/Documents/Org/templates/tpl-books.txt"))
+      (file+headline "c:/Users/trava_000/OneDrive/Documents/Org/mylife.org" "Books")
+      (file "~/Org/templates/tpl-books.txt"))
      ("t" "TODO entry" entry
-      (file+headline "c:/Users/trava/OneDrive/Documents/Org/mylife.org" "Inbox")
-      (file "c:/Users/trava/OneDrive/Documents/Org/templates/tpl-todo.txt")))))
+      (file+headline "c:/Users/trava_000/OneDrive/Documents/Org/mylife.org" "Inbox")
+      (file "~/Org/templates/tpl-todo.txt")))))
  '(org-checkbox-hierarchical-statistics t)
  '(org-closed-keep-when-no-todo t)
+ '(org-deadline-past-days 365)
  '(org-default-notes-file "~\\Org\\notes.org")
- '(org-directory "~/Org")
+ '(org-directory
+   "(setq org-directory \"c:/Users/trava_000/OneDrive/Documents/Org\")`")
+ '(org-done
+   ((t
+     (:foreground "ForestGreen" :strike-through t :weight bold))))
+ '(org-drawer ((t (:foreground "Blue1"))))
  '(org-enforce-todo-checkbox-dependencies nil)
  '(org-enforce-todo-dependencies t)
  '(org-fontify-done-headline t)
  '(org-fontify-whole-heading-line t)
- '(org-habit-following-days 7)
- '(org-habit-graph-column 40)
- '(org-habit-preceding-days 21)
- '(org-habit-show-all-today nil)
- '(org-habit-show-habits-only-for-today t)
+ '(org-habit-show-habits-only-for-today nil)
+ '(org-headline-done ((t (:foreground "dark khaki"))))
  '(org-hide-leading-stars t)
  '(org-hierarchical-todo-statistics t)
  '(org-id-link-to-org-use-id (quote create-if-interactive))
  '(org-id-method (quote org))
  '(org-id-prefix nil)
  '(org-id-track-globally t)
+ '(org-level-1 ((t (:inherit outline-1 :family "OCR A"))))
  '(org-log-into-drawer t)
  '(org-log-redeadline (quote time))
+ '(org-log-refile (quote note))
  '(org-log-reschedule (quote time))
  '(org-modules
    (quote
     (org-bbdb org-bibtex org-docview org-gnus org-habit org-id org-info org-irc org-mhe org-rmail org-w3m)))
+ '(org-outline-path-complete-in-steps nil)
  '(org-provide-todo-statistics t)
+ '(org-refile-targets (quote ((org-agenda-files :level . 2))))
  '(org-scheduled-delay-days 0)
+ '(org-scheduled-past-days 365)
+ '(org-todo ((t (:foreground "firebrick2" :weight bold))))
  '(org-todo-keyword-faces
    (quote
     (("BOUGHT" . "forestgreen")
@@ -87,22 +112,18 @@
      ("FINISHED" . "forestgreen"))))
  '(org-todo-keywords
    (quote
-    ((sequence "TODO(t)" "NEXT(n)" "IN-PROGRESS(i)" "SOMEDAY(s)" "WAITING(w)" "|" "CANCELLED(c!)" "DONE(d!)")
+    ((sequence "TODO(t)" "NEXT(n)" "SOMEDAY(s)" "WAITING(w)" "|" "CANCELLED(c!)" "DONE(d!)")
      (type "PURCHASED(p)" "PREORDERED(o)" "READING(e)" "LISTENING(l)" "PLAYING(p)" "|" "REFERENCE(r)" "BOUGHT(b)" "FINISHED(f)"))))
- '(org-use-property-inheritance t)
- '(package-selected-packages (quote (ebdb which-key beacon ## bbdb)))
- '(ring-bell-function (quote ignore)))
+;; Keep THIS LINE AT THE END TO OPEN FILE LAST
+(find-file "c:/Users/trava_000/OneDrive/Documents/Org/mylife.org")
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :stipple nil :background "SystemWindow" :foreground "SystemWindowText" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 120 :width normal :foundry "outline" :family "OCR A Extended"))))
- '(org-agenda-done ((t (:foreground "ForestGreen" :strike-through "red"))))
- '(org-done ((t (:foreground "ForestGreen" :strike-through t :weight bold))))
- '(org-drawer ((t (:foreground "Blue1"))))
- '(org-headline-done ((t (:foreground "dark khaki"))))
- '(org-level-1 ((t (:inherit outline-1 :family "OCR A"))))
- '(org-todo ((t (:foreground "firebrick2" :weight bold)))))
-;; Keep THIS FILE AT END.
-(find-file "c:/Users/trava/OneDrive/Documents/Org/mylife.org")
+ '(default ((t (:inherit nil :stipple nil :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 120 :width normal :foundry "outline" :family "OCR A Extended"))))
+ '(bold ((t (:weight bold)))))
