@@ -1,0 +1,362 @@
+* Inbox
+ - Note taken on [2020-07-27 Mon 17:11] \\
+  Movie to watch: They Live: ~ 1980
+:END:
+** Hellblazer
+*** Hellblazer #9
+   :PROPERTIES:
+   :TITLE:    Hellblazer #9
+   :AVAILABLE: No
+   :PURCHASE:
+   :END:
+*** Hellblazer #10
+    :PROPERTIES:
+    :TITLE:    Hellblazer #10
+    :AVAILABLE: No
+    :PURCHASE: Yes
+    :READ:
+    :READ_ALL: [ ]
+    :END:
+* Habits
+** Daily
+**** TODO Pray                                                        :Jesus:
+     SCHEDULED: <2020-07-29 Wed .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:40]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:04]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-07 Sun 17:06]
+- State "DONE"       from "TODO"       [2020-06-06 Sat 11:39]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:44]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:40]
+- State "DONE"       from "TODO"       [2020-06-02 Tue 19:30]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 17:57]
+- State "DONE"       from "TODO"       [2020-05-31 Sun 13:24]
+:END:
+**** TODO Feed Fish                                                    :Fish:
+     SCHEDULED: <2020-08-02 Sun .+2d/5d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-31 Fri 17:06]
+:END:
+
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:06]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-07 Sun 17:07]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:46]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:41]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 17:57]
+:END:
+**** TODO Reconcile Budget                                          :Finance:
+     SCHEDULED: <2020-08-03 Mon .+3d/7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-31 Fri 17:06]
+:END:
+- State "DONE"       from "TODO"       [2020-07-31 Fri 17:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:03]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:46]
+- State "DONE"       from "TODO"       [2020-06-02 Tue 19:30]
+:END:
+**** TODO Daily Plan                                             :GETAFTERIT:
+     SCHEDULED: <2020-08-01 Sat .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-31 Fri 17:05]
+:END:
+- State "DONE"       from "TODO"       [2020-07-31 Fri 17:05]
+- State "DONE"       from "TODO"       [2020-07-28 Tue 18:40]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-27 Mon 17:01]
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:49]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:04]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-07 Sun 17:06]
+- State "DONE"       from "TODO"       [2020-06-06 Sat 11:39]
+- Rescheduled from "[2020-06-06 Sat .+1d/3d]" on [2020-06-05 Fri 06:45]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:44]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:41]
+- State "DONE"       from "TODO"       [2020-06-02 Tue 19:30]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 18:00]
+:END:
+**** TODO Eminently Qualified Human Grade                        :GETAFTERIT:
+     SCHEDULED: <2020-08-01 Sat .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-31 Fri 17:05]
+:END:
+- State "DONE"       from "TODO"       [2020-07-31 Fri 17:05]
+- State "DONE"       from "TODO"       [2020-07-31 Fri 17:05]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-27 Mon 17:01]
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:49]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:06]
+- State "DONE"       from "TODO"       [2020-06-07 Sun 17:07]
+- State "DONE"       from "TODO"       [2020-06-06 Sat 11:39]
+- Rescheduled from "[2020-06-06 Sat .+1d/3d]" on [2020-06-05 Fri 06:44]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:44]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:41]
+- State "DONE"       from "TODO"       [2020-06-02 Tue 19:30]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 17:57]
+:END:
+**** TODO Take meds                                                  :Health:
+     SCHEDULED: <2020-07-29 Wed .+1d/2d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:40]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-27 Mon 17:01]
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- Rescheduled from "[2020-06-21 Sun .+1d/2d]" on [2020-07-20 Mon 17:03]
+- State "DONE"       from "DONE"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:49]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:03]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-07 Sun 17:06]
+- State "DONE"       from "TODO"       [2020-06-06 Sat 11:39]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:43]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:40]
+- State "DONE"       from "TODO"       [2020-06-02 Tue 19:29]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 17:57]
+- State "DONE"       from "TODO"       [2020-05-31 Sun 13:23]
+:END:
+- Vyvanse :: take in the Morning
+- Famotidine :: Take morning and evening before eating
+- Omperapolse :: Take once in morning
+** Weekly
+*** TODO Review Week                                             :GETAFTERIT:
+    SCHEDULED: <2020-08-03 Mon .+1w/2w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-27 Mon 17:01]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-27 Mon 17:01]
+- State "DONE"       from "TODO"       [2020-07-20 Mon 17:00]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 20:03]
+:END:
+1. Review Master Task Lists
+2. Goal progress towards Critical Event
+3. Next Steps Towards /Personal Goals/
+4. New Critical Event this week?
+5. What family events happen this week?
+6. Progress on goal iterations.
+7. What family events happen this week
+8. Birthdays?
+9. Any other events or things to know about?
+*** TODO Grocery shopping                                            :Health:
+    SCHEDULED: <2020-07-23 Thu .+1w/2w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-06-20 Sat 14:50]
+:END:
+:LOGBOOK:
+- Rescheduled from "[2020-06-27 Sat .+1w/2w]" on [2020-07-20 Mon 17:01]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- Rescheduled from "[2020-06-21 Sun .+1w/2w]" on [2020-06-14 Sun 14:04]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 14:03]
+:END:
+- Review grocery list and sale items with Marial
+*** Aquarium maintence                                                 :Fish:
+**** TODO NEXT Aquarium water change
+     SCHEDULED: <2020-08-04 Tue .+1w/2w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:39]
+:END:
+:LOGBOOK:
+- Rescheduled from "[2020-06-27 Sat .+1w/2w]" on [2020-07-20 Mon 17:02]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+- State "DONE"       from "TODO"       [2020-06-03 Wed 18:42]
+:END:
+**** TODO Aquarium water refill
+     SCHEDULED: <2020-07-21 Tue .+1w/2w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-06-20 Sat 14:50]
+:END:
+:LOGBOOK:
+- Rescheduled from "[2020-06-27 Sat .+1w/2w]" on [2020-07-20 Mon 17:04]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:50]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:21]
+:END:
+*** TODO Wash and fold laundry                                       :Chores:
+    SCHEDULED: <2020-07-30 Thu .+2d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:08]
+:END:
+- State "DONE"       from "TODO"       [2020-07-28 Tue 18:08]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]
+- State "DONE"       from "TODO"       [2020-06-20 Sat 14:49]
+- State "DONE"       from "TODO"       [2020-06-16 Tue 07:38]
+- Rescheduled from "[2020-06-12 Fri .+2d/3d]" on [2020-06-14 Sun 14:06]
+- Rescheduled from "[2020-06-12 Fri .+2d/3d]" on [2020-06-14 Sun 14:05]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:20]
+- State "DONE"       from "TODO"       [2020-06-05 Fri 06:43]
+- State "CANCELLED"  from "TODO"       [2020-06-02 Tue 19:30]
+:END:
+*** TODO Clean Bathroom                                              :Chores:
+    SCHEDULED: <2020-08-04 Tue .+1w/3w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:40]
+:END:
+*** TODO Vacuum & Sweep                                              :Chores:
+    SCHEDULED: <2020-08-04 Tue .+1w/3w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:41]
+:END:
+- Living room
+- Kitchen
+*** TODO Strip sheets                                                :Chores:
+    SCHEDULED: <2020-08-04 Tue .+1w/2w>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2020-07-28 Tue 18:40]
+:END:
+- State "DONE"       from "TODO"       [2020-07-28 Tue 18:40]
+* Personal
+** TODO [#C] List chores/repeating tasks                                
+ - *Daily* [100%]
+   - [X] Pray
+   - [X] Feed Fish
+   - [X] Reconcile Budget
+   - [X] Daily Plan :: Pick *3* tasks to focus on.
+   - [X] Eminently Qualified Human Grade
+   - [X] Take Meds
+     - [X] Vyvanse
+     - [X] Famotidine
+     - [X] Omerpazole
+ - *Weekly* [100%]
+   - [X] Review Week :: Next steps towards /Personal Goals/
+   - [X] Grocery shopping
+   - [X] Aquarium
+     - [X] Aquarium water change
+     - [X] aquarium water fill
+   - [X] Wash & Fold Laundry
+   - [X] Clean Bathroom
+   - [X] Vacuum & sweep  Living room & kitchen
+   - [X] Strip sheets
+ - *Monthly*[0%]
+   - [ ] Pay bills
+     - [ ] Car insurance
+     - [ ] Internet
+     - [ ] Cell phone
+     - [ ] Rent/Mortgage
+     - [ ] Utilities
+       - [ ] Electric
+       - [ ] Gas
+       - [ ] water
+   - [ ] Clean car
+   - [ ] Organize desk
+   - [ ] change planner pages
+ - *Yearly*[0%]
+   - [ ] File taxes
+   - [ ] Renew Car registration
+   - [ ] Renew PRGC membership
+   - [ ] Renew Gym Membership?
+
+** TODO [#A] EF Online, make day it's own page
+ Page break after day, remove paragraph breaks after questions if they don't fit.
+   
+   :LOGBOOK:
+   - Added: [2020-05-30 Sat 07:31]
+   :END:
+** DONE [#A] Make Tickler file of months Jan-Dec
+   SCHEDULED: <2020-06-06 Sat>
+   
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-06-06 Sat 11:51]
+   - Added: [2020-06-01 Mon 20:33]
+   :END:
+
+* Master Task Lists
+** January Master Task Lists
+
+** February Master Task Lists
+
+** March Master Task Lists
+*** Renew Marial's car Registration
+*** TODO Renew Marial's Car Registration
+    SCHEDULED: <2021-04-01 Thu +1y>
+   
+    :LOGBOOK:
+    - Added: [2020-06-01 Mon 20:11]
+    :END:
+** April Master Task Lists
+
+** May Master Task Lists
+
+** June Master Task Lists
+
+*** TODO Renew Travis's Car registration                                :Car:
+    SCHEDULED: <2021-06-01 Tue +1y>
+    :PROPERTIES:
+    :LAST_REPEAT: [2020-06-01 Mon 20:06]
+    :END:
+   
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2020-06-01 Mon 20:05]
+    - Added: [2020-05-27 Wed 16:22]
+    :END:
+
+** July Master Task Lists
+
+** August Master Task Lists
+
+** September Master Task Lists
+
+** October Master Task Lists
+
+** November Master Task Lists
+
+** December Master Task Lists
+* Finances                                                          :Finance:
+* Fun stuff
+** Movies
+- [ ] They Live
+- [ ] Knives Out
+** Books
+** Comics
+:PROPERTIES:
+:COLUMNS:  %TITLE %AVAILABLE(Available) %PURCHASE(Purchase) %9READ_ALL{X}
+:Availabe_DATE:
+:Purchase_DATE:
+:READ:     [ ]
+:TITLE:
+:AVAILABLE: No
+:PURCHASE: Yes
+:READ_ALL: [ ]
+:END:
+:LOGBOOK:
+* Capture

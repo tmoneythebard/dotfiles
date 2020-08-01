@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu May 28 20:26:00 2020
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24272 32968 502749 0) (desktop . "208") "trava_000@travis" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-OCR A Extended-normal-normal-normal-mono-16-*-*-*-p-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "SystemWindowText") (background-color . "SystemWindow") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 3) (height . 56) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (scroll-bar-height . 0) (fullscreen . maximized) (z-group) (visibility . t) (display-type . color) (background-mode . light) (cursor-color . "black") (environment) (frameset--id . "E1AA-2221-58A2-158B") (frameset--mini t . t) (width . 188) (modeline . t) (unsplittable) (left + -8) (top + -8) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 12) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 68) (min-pixel-width . 200) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 120) (min-pixel-height-safe . 17) (min-pixel-width-safe . 40)) hc (pixel-width . 1920) (pixel-height . 944) (total-width . 192) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 944) (total-width . 96) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Customize Browser*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 630) (start . 1))) (leaf (last . t) (pixel-width . 960) (pixel-height . 944) (total-width . 96) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "mylife.org" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 2) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("c:/Users/trava_000/OneDrive/Documents/Org/" "~/.emacs" "c:/Users/trava_000/OneDrive/Documents/Org/mylife.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/trava_000/OneDrive/Documents/Org/mylife.org"
+  "mylife.org"
+  'org-mode
+  nil
+  2
+  '(1069 nil)
+  nil
+  nil
+  '((buffer-display-time 24272 32947 945866 0) (buffer-file-coding-system . undecided-dos) (truncate-lines . t))
+  '((mark-ring (5 1095 1069 7 1069 30 956 31 1069 1069 1069))))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  nil
+  1570529
+  '(1541228 nil)
+  t
+  '("c:/Users/trava_000/OneDrive/emacs-26.3/share/info/emacs" "Examining" ((history ("c:/Users/trava_000/OneDrive/emacs-26.3/share/info/emacs" "Variables" 1568557) ("c:/Users/trava_000/OneDrive/emacs-26.3/share/info/emacs" "Customization" 1539832) ("c:/Users/trava_000/OneDrive/emacs-26.3/share/info/emacs" "Customization Groups" 1541764) ("c:/Users/trava_000/OneDrive/emacs-26.3/share/info/emacs" "Easy Customization" 1541228))))
+  '((tab-width . 8) (buffer-display-time 24272 31265 790361 0) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (1541764 1539832 1568557))))
+

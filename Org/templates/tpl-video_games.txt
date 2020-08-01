@@ -1,0 +1,9 @@
+* SOMEDAY %^(Title) - %^(Platform)
+:PROPERTIES:
+:GENRE: %^(Genre)
+:STEAM: %^(Steam)
+:END:
+- Recommended by %^(recommended by)
+:LOGBOOK:
+-ADDED: %U
+:END:

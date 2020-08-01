@@ -1,0 +1,190 @@
+% Created 2018-09-27 Thu 14:03
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\date{\today}
+\title{vision}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.3.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{2018 Goals}
+\label{sec-1}
+\subsection{I have the start of a career}
+\label{sec-1-1}
+\subsubsection{Advancement at Walgreens}
+\label{sec-1-1-1}
+\begin{itemize}
+\item What can I do to be the best store lead in the store?
+\item Assistant Manager?
+\begin{itemize}
+\item Seems to be too much work for not enough pay
+\end{itemize}
+\end{itemize}
+\subsubsection{Teaching}
+\label{sec-1-1-2}
+\begin{itemize}
+\item Are there any teaching apprenticeships.
+\item Have 4 year degree and 8 years job experience
+\item Male: Hear both positive and negatives for being a male teacher
+\end{itemize}
+\subsubsection{Something else}
+\label{sec-1-1-3}
+\ldots{}. what an I good at? 
+
+\subsection{Diet:}
+\label{sec-1-2}
+\subsubsection{Eat More often}
+\label{sec-1-2-1}
+\begin{itemize}
+\item Set alarms on phone
+\item Don't let myself have coffee until I eat breakfast
+\item have 3 meals a day.
+\item Healthy snacks?
+\begin{itemize}
+\item Banannas
+\item Yogurt
+\item trail mix?
+\end{itemize}
+\end{itemize}
+\subsubsection{Healthy Eating}
+\label{sec-1-2-2}
+\begin{itemize}
+\item Grocery shop regulary
+\item Stick to outside of the store
+\begin{itemize}
+\item Produce
+\item Dairy
+\begin{itemize}
+\item Yogurt
+\item Milk
+\item Eggs
+\end{itemize}
+\item Meats
+\begin{itemize}
+\item Chicken (Already buying a lot of this on sale
+\item Pork
+\item Fish?
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\subsubsection{{\bfseries\sffamily TODO} Pick one day a week to shop for groceries}
+\label{sec-1-2-3}
+\begin{itemize}
+\item Plan the next week when to go.
+\end{itemize}
+\subsubsection{{\bfseries\sffamily TODO} Make list before going to store}
+\label{sec-1-2-4}
+\subsubsection{{\bfseries\sffamily TODO} Pack food at work.}
+\label{sec-1-2-5}
+\begin{itemize}
+\item Pack food the night before
+\item types of food?
+\begin{itemize}
+\item Leftovers from dinner
+\begin{itemize}
+\item add salad bag to leftovers
+\end{itemize}
+\item sandwichs
+\end{itemize}
+\end{itemize}
+\subsection{Friends:}
+\label{sec-1-3}
+\begin{itemize}
+\item I make friends and socialize regulary with people. I am not shut in with my books and video games.
+\begin{itemize}
+\item much progess has been made on this front thanks to Mom. Have regular time shooting and have made a new friend in Carl.
+\begin{itemize}
+\item Carl has inspired me to make more of an effort at getting out of my comfort zone and doing things.  Going shooting has become something that I look forward to and learning more about: 
+A) Shooting: Fun time to talk, confidence, stress release
+B) Nourishing my relationship with my faith
+C) Helped me become more organized and also accountable.
+\end{itemize}
+\end{itemize}
+\item Do not have many other friends yet, but quality over quantity.
+\end{itemize}
+\subsection{Excerise:}
+\label{sec-1-4}
+\begin{enumerate}
+\item Started with pushups at the end of August, doing increasing sets until I get to 10. Currently close.
+\item Do not like gyms. What other calisthenics can I do?
+\item Go running when weather cools off?
+\end{enumerate}
+\subsection{Faith}
+\label{sec-1-5}
+\begin{enumerate}
+\item continue going to daily Mass before work
+\item go on Sunday's or Saturday evening (evening hard due to current work schedule)
+\item continue the discussions with Carl.
+\end{enumerate}
+\subsubsection{{\bfseries\sffamily TODO} Go to confession as needed}
+\label{sec-1-5-1}
+\begin{enumerate}
+\item feels odd confessing stuff. Some either feels not important: how annoyed and frustated I get with people at work, losing my temper and anger.
+\begin{itemize}
+\item dealing with idiocy with the same staff, customers
+\item lust: awkward to mention using screen, i don't know about face to face.
+\begin{itemize}
+\item masturbation
+\end{itemize}
+\end{itemize}
+\end{enumerate}
+\subsubsection{{\bfseries\sffamily TODO} Develop more prayer life}
+\label{sec-1-5-2}
+\begin{itemize}
+\item Feels odd praying rosary: can't remember mysteries and thinking about them
+\item Medatitive repition however is nice.
+\end{itemize}
+\section{2023 Vision}
+\label{sec-2}
+In Five Years I see myself:
+\subsection{Further along in my career}
+\label{sec-2-1}
+\begin{itemize}
+\item have something further that I can work towards.
+\item Promotion? something in same field that pays better
+\item but what do I want to do?
+\end{itemize}
+People have suggested teaching. While I don't see myself able to handle the students. others must see something different in me.
+\begin{itemize}
+\item Ok lets ask what other see in me as far as teaching?
+\end{itemize}
+\subsection{visiting Marina and Hunter in NYC over a holiday}
+\label{sec-2-2}
+I want to take a trip to NYC to see Marina and Hunter during a holiday.
+\subsection{at 34 healthy both physically and emotionally.}
+\label{sec-2-3}
+I am working out regular and not eating lots of junkfood, I am waking up early and being productive.
+\subsection{in  stable and happy releationship}
+\label{sec-2-4}
+
+\section{Practices}
+\label{sec-3}
+\begin{description}
+\item[{Pause: when asked a question, \ldots{}pause\ldots{}. how does it help me}] think about the answer, take time to gather thoughts.
+\item[{when I complain what can I do to make it  better?}] what solutions have a I tried?
+\begin{description}
+\item[{What can I control? think about that}] I worry too much about things that I cannot control. Focus more on what I can control.
+\end{description}
+\end{description}
+% Emacs 25.3.1 (Org mode 8.2.10)
+\end{document}

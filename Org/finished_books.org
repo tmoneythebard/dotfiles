@@ -1,0 +1,85 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/owner/Documents/Org/mylife.org
+
+
+* READING/LISTENING Susan R. Matthews - An Exchange of Hostages
+   CLOSED: [2017-03-27 Mon 12:41]
+ :PROPERTIES:
+ :GENRE:   "Space Opera"
+ :EBOOK:    No
+ :AUDIOBOOK: Yes
+ :ARCHIVE_TIME: 2018-07-22 Sun 15:48
+ :ARCHIVE_FILE: ~/Org/mylife.org
+ :ARCHIVE_OLPATH: Entertainment/Books
+ :ARCHIVE_CATEGORY: mylife
+ :ARCHIVE_TODO: READING/LISTENING
+ :ARCHIVE_ITAGS: BOOKS
+ :END:
+ - Recommended by Baen Free Radio Podcast
+ :LOGBOOK:
+ - State "BOUGHT"     from "SOMEDAY"    [2017-03-27 Mon 12:41]
+ -ADDED: [2017-03-23 Thu 11:36]
+ :END:
+
+* FINISHED Larry Correia - The Monster Hunter Files		    :ARCHIVE:
+   :PROPERTIES:
+   :RELEASEDATE: <2017-10-03>
+   :GENRE:    Science-fiction
+   :EBOOK:    yes
+   :AUDIOBOOK: no
+   :RELEASEDATE: <2017-10-03>
+   :ARCHIVE_TIME: 2018-07-22 Sun 15:50
+   :ARCHIVE_FILE: ~/Org/mylife.org
+   :ARCHIVE_OLPATH: Entertainment/Books/Archive
+   :ARCHIVE_CATEGORY: mylife
+   :ARCHIVE_TODO: FINISHED
+   :ARCHIVE_ITAGS: BOOKS
+   :END:
+ - Recommended by Baen Free Radio Hour
+ :LOGBOOK:
+ -ADDED: [2017-04-14 Fri 08:38]
+ :END:
+
+* FINISHED Jocko Willink - Way of the Warrior Kid #2		    :ARCHIVE:
+:PROPERTIES: 
+:RELEASE-DATE: <2018-04-24>
+:ARCHIVE_TIME: 2018-07-22 Sun 15:50
+:ARCHIVE_FILE: ~/Org/mylife.org
+:ARCHIVE_OLPATH: Entertainment/Books/Archive
+:ARCHIVE_CATEGORY: mylife
+:ARCHIVE_TODO: FINISHED
+:ARCHIVE_ITAGS: BOOKS
+:END:
+** DONE Send copy to Zach
+:LOGBOOK:  
+- State "DONE"       from "TODO"       [2018-07-11 Wed 15:32]
+:END:      
+*** DONE Buy Physical copy of book on Amazon
+SCHEDULED: <2018-04-19 Thu>
+:LOGBOOK:  
+- State "DONE"       from "WAITING"    [2018-04-27 Fri 13:16]
+:END:      
+- [ ] Buy copy on amazon and have it sent directly to Zach
+
+* FINISHED Jocko Willink - Way of the Warrior Kid		    :ARCHIVE:
+   CLOSED: [2017-05-04 Thu 09:48]
+   :PROPERTIES:
+   :RELEASE-DATE: <2017-05-02>
+   :GENRE:    novel
+   :EBOOK:    yes
+   :AUDIOBOOK: no
+   :ARCHIVE_TIME: 2018-07-22 Sun 15:50
+   :ARCHIVE_FILE: ~/Org/mylife.org
+   :ARCHIVE_OLPATH: Entertainment/Books/Archive
+   :ARCHIVE_CATEGORY: mylife
+   :ARCHIVE_TODO: FINISHED
+   :ARCHIVE_ITAGS: BOOKS
+   :END:
+ - Recommended by Jocko Podcast
+ :LOGBOOK:
+ - Note taken on [2017-05-16 Tue 14:39] \\
+   Really liked this book, even thought it was a kid's book, it had a lot of really good information in it. I listened to the audio book version and I enjoyed it.
+ -ADDED: [2017-04-18 Tue 21:14]
+ :END:      

@@ -1,0 +1,11 @@
+* SOMEDAY %^ - %^
+:PROPERTIES:
+:GENRE: %^
+:EBOOK: %^
+:AUDIOBOOK: %^
+:RELEASEDATE: %^
+:END:
+- Recommended by %^
+:LOGBOOK:
+-ADDED: %U
+:END:

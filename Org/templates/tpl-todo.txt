@@ -1,0 +1,6 @@
+* TODO %^{Description of Task}
+SCHEDULED:%^T
+%?
+:LOGBOOK:
+  - Added: %U
+  :END:
