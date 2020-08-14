@@ -42,11 +42,13 @@
    (quote
     ("c:/Users/trava_000/OneDrive/Documents/Org/mylife.org")))
  '(org-capture-templates nil)
+ '(org-directory "~/Org")
  '(org-habit-show-habits t)
  '(org-modules
    (quote
     (org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m org-checklist)))
- '(package-selected-package (quote (which-key use-package))))
+ '(package-selected-package (quote (which-key use-package)))
+ '(package-selected-packages (quote (use-package which-key org ebdb beacon bbdb))))
  '(column-number-mode t)
  '(default
     ((t
