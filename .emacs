@@ -1,12 +1,19 @@
 (message "Let's Get After It. Discipline Equals Freedom")
-
 ;; Disable the splash screen (to enable it agin, replace the t with 0)
 (setq inhibit-splash-screen t)
-;; Time in modeline
+
+;; Disable tool bar, menu bar and scroll bar
+(tool-bar-mode -1)
+(menu-bar-mode -1)
+(scroll-bar-mode -1)
+
+;; Time in modeline and Start up Message
 (display-time-mode 1)
-;; package initialize
+(defun display-startup-echo-area-message ()
+  (message "Get After It, November Foxtrot Sierra"))
+;; package initialize and package list
 (require 'package)
-(setq package-enable-at-startup nil)
+
 (add-to-list 'package-archives
 	     '("melpa" . "https://melpa.org/packages/"))
 (package-initialize)
@@ -14,15 +21,39 @@
 (unless (package-installed-p 'use-package)
   (package-refresh-contents)
   (package-install 'use-package))
+(setq package-enable-at-startup nil)
+(use-package which-key
+ :ensure t
+ :init
+ (which-key-mode))
 
+(use-package beacon
+  :ensure t
+  :init
+  (beacon-mode 1))
+
+;; spacemacs theme
 (unless (package-installed-p 'spacemacs-theme)
   (package-refresh-contents)
   (package-install 'spacemacs-theme))
 
-(use-package which-key
-  :ensure t
-  :init
-  (which-key-mode))
+;;confirm key shortcuts, scroll speed and bell, no backups
+(defalias 'yes-or-no-p 'y-or-n-p)
+
+(setq scroll-conservatively 100)
+
+(setq ring-bell-function 'ignore)
+
+(when window-system (global-prettify-symbols-mode t))
+
+(setq make-backup-file nil)
+(setq auto-save-default nil)
+
+;;redefining emacs terminal
+(defvar my-term-shell "/bin/bash")
+(defadvice ansi-term (before force-bash)
+  (interactive (list my-term-shell)))
+(ad-activate 'ansi-term)
 
 ;; Enable transient mark mode
 (transient-mark-mode 1)
