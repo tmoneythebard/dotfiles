@@ -77,16 +77,19 @@
  '(custom-safe-themes
    (quote
     ("bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" default)))
- '(org-agenda-files (quote ("~/Org/mylife.org")))
+ '(org-agenda-files
+   (quote
+    ("c:/projects/dotfiles/Org/habits.org" "c:/projects/dotfiles/Org/Calender.org" "~/Org/mylife.org")))
  '(org-capture-templates
    (quote
     (("b" "Books To Read" entry
-      (file+headline "~/Org/mylife.org" "Books")
-      (file "~/Org/templates/tpl-books.txt"))
+      (file+headline "~/dotfiles/Org/mylife.org" "Books")
+      (file "~/dotfiles/Org/templates/tpl-books.txt"))
      ("t" "TODO" entry
-      (file+headline "~/Org/mylife.org" "Inbox")
-      (file "~/Org/templates/tpl-todo.txt")))))
- '(org-directory "~/Org")
+      (file+headline "~/dotfiles/Org/mylife.org" "Inbox")
+      (file "~/dotfiles/Org/templates/tpl-todo.txt")))))
+ 
+ '(org-directory "~/dotfiles/Org")
  '(org-habit-show-habits t)
  '(org-modules
    (quote
