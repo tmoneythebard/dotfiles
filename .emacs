@@ -79,7 +79,7 @@
     ("bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" default)))
  '(org-agenda-files
    (quote
-    ("c:/projects/dotfiles/Org/habits.org" "c:/projects/dotfiles/Org/Calender.org" "~/Org/mylife.org")))
+    ("~/Projects/dotfiles/Org/habits.org" "~/Projects/dotfiles/Org/Calender.org" "~/Projects/dotfiles/mylife.org")))
  '(org-capture-templates
    (quote
     (("b" "Books To Read" entry
