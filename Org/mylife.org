@@ -2,7 +2,7 @@
 :PROPERTIES:
 :CATEGORY: Inbox
 :END:
-* TODO Tasks
+* Tasks
 :PROPERTIES:
 :CATEGORY: Tasks
 :END:

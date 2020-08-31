@@ -7,5 +7,5 @@
 ** Holidays
 
 * Appointments
-** APPT Belmont Dentistry
+** DONE Belmont Dentistry
 <2020-08-31 Mon 08:00>
