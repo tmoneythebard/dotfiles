@@ -45,11 +45,12 @@
  - State "DONE"       from "TODO"       [2020-06-01 Mon 17:57]
  :END:
 ***** TODO Reconcile Budget                                         :Finance:
-      SCHEDULED: <2020-08-20 Thu .+3d/7d>
+      SCHEDULED: <2020-09-03 Thu .+3d/7d>
       :PROPERTIES:
       :STYLE:    habit
-      :LAST_REPEAT: [2020-08-17 Mon 06:08]
+      :LAST_REPEAT: [2020-08-31 Mon 15:09]
       :END:
+      - State "DONE"       from "TODO"       [2020-08-31 Mon 15:09]
  - State "DONE"       from "TODO"       [2020-08-17 Mon 06:08]
  :LOGBOOK:
  - State "DONE"       from "TODO"       [2020-07-26 Sun 18:43]

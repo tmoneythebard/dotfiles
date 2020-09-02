@@ -1,0 +1,6 @@
+* APPT %^{Description of Event}
+SCHEDULED:%^T
+%^{Notes about event} %?
+:LOGBOOK:
+  - Added: %U
+  :END:
