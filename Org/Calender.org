@@ -21,7 +21,16 @@
  :LOGBOOK:
    - Added: [2020-08-31 Mon 15:23]
    :END:
+** 2020-08 August
+*** 2020-08-31 Monday
+** 2020-09 September
+*** 2020-09-03 Thursday
+**** APPT Life Giving Wounds: Retreat For Children of Divorce
+     SCHEDULED:<2020-10-01 Thu 17:36--2020-11-12>
+   Online Retreat for children of divorced parents. Thursday evenings. 
+   :LOGBOOK:
+     - Added: [2020-09-03 Thu 17:36]
+     :END: 
 * Inbox
-** 2020
-*** 2020-08 August
-**** 2020-08-31 Monday
+
+

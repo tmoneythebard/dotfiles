@@ -103,10 +103,24 @@
 :PROPERTIES:
 :CATEGORY: Health
 :END:
-* House Maintenace
+* House Maintenace [0/3]
 :PROPERTIES:
 :CATEGORY: House
 :END:
+** TODO Things to Buy [0/5]
+- [ ] Ladder
+- [ ] Garden gloves
+- [ ] Trash can
+- [ ] New Key :: Marial's Key
+- [ ] Light remote solution
+  - [ ] velcro?
+  - [ ] basket/container?
+** TODO Air filters
+- [ ] how many?
+- [ ] Find size?
+** TODO Cox
+- [ ] Add Home Security?
+- [ ] Change service date: specific time?
 * Vehicle Mainenance
 :PROPERTIES:
 :CATEGORY: Vehicle
