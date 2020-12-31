@@ -113,14 +113,14 @@
    :END:
 ** TODO [#A] Backup Linux files.                                     :Office:
    SCHEDULED:<2021-01-04 Mon 09:00>
- save bash init file to github
+- [ ] Save bash init file to github
  :LOGBOOK:
    - Added: [2020-12-30 Wed 19:01]
    :END:
 ** TODO Backup .emacs file to github                                 :Office:
    SCHEDULED:<2021-01-04 Mon 19:05>
- - [ ] Backup files on old desktop
- - [ ] Copy backup information
+ - [ ] Backup files on old desktop to github
+ - [X] Backup laptop_config github repo.
  :LOGBOOK:
    - Added: [2020-12-30 Wed 19:05]
    :END:
@@ -169,9 +169,9 @@ Did not have the trash can wanted it in stock.
 :PROPERTIES:
 :CATEGORY: Exterior
 :END:
-** TODO Purchases
+** DONE Purchases
    SCHEDULED: <2020-09-21 Mon>
-- [ ] Lock for Circuit Breaker :: Prefer Combo lock
+- [X] Lock for Circuit Breaker :: Prefer Combo lock
 Use Wedding Date as combo
 * Master Task Lists / Tickler
 :PROPERTIES:
@@ -226,7 +226,7 @@ Use Wedding Date as combo
 - [ ] They Live
 - [ ] Knives Out
 ** Books
-*** Days of Burning, Days of Wrath - Tom Kratman
+*** DONE Days of Burning, Days of Wrath - Tom Kratman
     :PROPERTIES:
     :GENRE:    Science-Fiction
     :EBOOK:    Yes
@@ -237,7 +237,7 @@ Use Wedding Date as combo
   :LOGBOOK:
   -ADDED: [2020-08-17 Mon 07:23]
   :END:
-*** The Moor's account
+*** DONE The Moor's account
  historical fiction re columbus expediton: Lalla Lalami
  :LOGBOOK:
    - Added: [2020-09-20 Sun 16:44]
