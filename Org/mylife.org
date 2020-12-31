@@ -6,6 +6,8 @@
 :PROPERTIES:
 :CATEGORY: Tasks
 :END:
+** TODO [#A] Input home warranty seasonal tips into schedule
+   SCHEDULED: <2020-09-21 Mon 17:00>
 ** TODO [#C] List chores/repeating tasks                                
  - *Daily* [100%]
    - [X] Pray
@@ -68,7 +70,7 @@
  :LOGBOOK:
    - Added: [2020-08-17 Mon 11:50]
    :END:
-** DONE [#A] call Desert Ridge Family Practice
+** DONE [#A] Call Desert Ridge Family Practice
    SCHEDULED:<2020-08-17 Mon 09:00>
  Call Desert ridge to confirm Vyvanse RX was sent
  :LOGBOOK:
@@ -82,11 +84,45 @@
  :LOGBOOK:
    - Added: [2020-08-17 Mon 19:08]
    :END:
-** TODO [#A] make shell script to copy from home to dotfiles repo
+** TODO [#B] make shell script to copy from home to dotfiles repo
    SCHEDULED:<2020-08-19 Wed 21:13>
  
  :LOGBOOK:
    - Added: [2020-08-18 Tue 21:13]
+   :END:
+** DONE [#A] Call Dentist
+:LOGBOOK:
+   - Added: [2020-09-14 Mon 13:03]
+:END:
+- [X] Call Dentist to pay Marial invoice
+- [X] Ask about dental work for Travis
+  - [X] Does CT scan show work can be done?
+  SCHEDULED: <2020-09-17 Thu 09:15>
+** DONE [#A] Wash yoga mat
+   SCHEDULED:<2020-09-21 Mon 15:00>
+ 
+ :LOGBOOK:
+   - Added: [2020-09-20 Sun 15:50]
+   :END:
+** TODO Backup wedding album to Google Photos
+   SCHEDULED:<2020-09-23 Wed 11:00>
+- Backup photos to google photos
+- Find ring photo and photo for lock screen
+ :LOGBOOK:
+   - Added: [2020-09-23 Wed 06:10]
+   :END:
+** TODO [#A] Backup Linux files.                                     :Office:
+   SCHEDULED:<2021-01-04 Mon 09:00>
+ save bash init file to github
+ :LOGBOOK:
+   - Added: [2020-12-30 Wed 19:01]
+   :END:
+** TODO Backup .emacs file to github                                 :Office:
+   SCHEDULED:<2021-01-04 Mon 19:05>
+ - [ ] Backup files on old desktop
+ - [ ] Copy backup information
+ :LOGBOOK:
+   - Added: [2020-12-30 Wed 19:05]
    :END:
 * Notes
 :PROPERTIES:
@@ -107,28 +143,36 @@
 :PROPERTIES:
 :CATEGORY: House
 :END:
-** TODO Things to Buy [0/5]
+** TODO Purchases [4/5]
 - [ ] Ladder
-- [ ] Garden gloves
-- [ ] Trash can
-- [ ] New Key :: Marial's Key
-- [ ] Light remote solution
-  - [ ] velcro?
-  - [ ] basket/container?
-** TODO Air filters
+We need a 6 or 7 foot ladder
+- [X] Garden gloves
+- [X] Trash can
+Did not have the trash can wanted it in stock.
+- [X] New Key :: Marial's Key
+- [X] Light remote solution
+  - [X] velcro?
+** TODO Air filters [0/2]
 - [ ] how many?
 - [ ] Find size?
-** TODO Cox
+** TODO Cox [1/2]
 - [ ] Add Home Security?
-- [ ] Change service date: specific time?
+- [X] Change service date: specific time?
 * Vehicle Mainenance
 :PROPERTIES:
 :CATEGORY: Vehicle
 :END:
+** Tires
+   - Note taken on [2020-12-16 Wed 19:09] \\
+     Flat tire last week, tire under warranty.
 * Yard and Exterior Maintenance
 :PROPERTIES:
-:CATEGORY: Yard
+:CATEGORY: Exterior
 :END:
+** TODO Purchases
+   SCHEDULED: <2020-09-21 Mon>
+- [ ] Lock for Circuit Breaker :: Prefer Combo lock
+Use Wedding Date as combo
 * Master Task Lists / Tickler
 :PROPERTIES:
 :CATEGORY: Tickler
@@ -192,6 +236,24 @@
   - Recommended by 
   :LOGBOOK:
   -ADDED: [2020-08-17 Mon 07:23]
+  :END:
+*** The Moor's account
+ historical fiction re columbus expediton: Lalla Lalami
+ :LOGBOOK:
+   - Added: [2020-09-20 Sun 16:44]
+   :END:
+*** Getting Things Done - David Allen
+    :PROPERTIES:
+    :GENRE:    Non-Fiction
+    :EBOOK:
+    :AUDIOBOOK:
+    :RELEASEDATE:
+    :END:
+    - Note taken on [2020-11-16 Mon 12:57] \\
+      Book on time management and structure.
+  - Recommended by EF Online
+  :LOGBOOK:
+  -ADDED: [2020-11-16 Mon 12:56]
   :END:
 ** Comics
 :PROPERTIES:
