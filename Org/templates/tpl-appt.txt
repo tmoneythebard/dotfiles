@@ -1,4 +1,4 @@
-* APPT %^{Description of Event}
+* APPOINTMENT %^{Description of Event}
 SCHEDULED:%^T
 %^{Notes about event} %?
 :LOGBOOK:

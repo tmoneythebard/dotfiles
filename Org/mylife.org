@@ -2,6 +2,54 @@
 :PROPERTIES:
 :CATEGORY: Inbox
 :END:
+** TODO Get rid of laptops
+   SCHEDULED:<2021-01-16 Sat 07:18>
+ Wipe and donate/throwaway macbooks.
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 07:17]
+   :END:
+*** TODO  Wipe Laptops of personal info.
+    SCHEDULED: <2021-01-09 Sat>
+** TODO Consolidate External Harddrives [0/3]                        :Office:
+   SCHEDULED:<2021-01-04 Mon 14:45>
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 07:46]
+   :END:
+- [ ] Go through Hard drives for anything to keep and move to laptop
+- [ ] Move files from laptop to 1TB drive
+- [ ] Move Music files to 1TB Grey drive
+** TODO Organize music files                                         :Office:
+   SCHEDULED: <2021-01-30 Sat>
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 07:56]
+   :END:
+** TODO Organize desk                                                :Office:
+   SCHEDULED:<2021-01-07 Thu 16:00>
+ - [ ] Process Inbox
+   - [ ] Sort wallets/binders
+   - [ ] Organize pens and notepads
+ - [ ] Organize bookshelf
+   - [ ] Decide which books go in bedroom
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 08:35]
+   :END:
+** TODO buy new cartridge ink/converter for Kaweco.                  :Office:
+   SCHEDULED:<2021-01-08 Fri 13:22>
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 13:22]
+   :END:
+** TODO Change Important Email
+   SCHEDULED:<2021-01-14 Thu 19:24>
+ :LOGBOOK:
+   - Added: [2021-01-13 Wed 19:24]
+   :END:
+*** TLARNOLD2011
+- Update Email
+  - [ ] Credit Karma
+  - [ ] USPS Informed Delivery
+  - [ ] Samurai comics
+    - [ ] Comic Hub app
+  - [ ] Fanfiction.com
 * Tasks
 :PROPERTIES:
 :CATEGORY: Tasks
@@ -123,7 +171,7 @@
  - [X] Backup laptop_config github repo.
  :LOGBOOK:
    - Added: [2020-12-30 Wed 19:05]
-   :END:
+  
 * Notes
 :PROPERTIES:
 :CATEGORY: Notes
