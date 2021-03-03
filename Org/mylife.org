@@ -10,7 +10,7 @@
    :END:
 *** TODO  Wipe Laptops of personal info.
     SCHEDULED: <2021-01-09 Sat>
-** TODO Consolidate External Harddrives [0/3]                        :Office:
+** NEXT Consolidate External Harddrives [0/3]                        :Office:
    SCHEDULED:<2021-01-04 Mon 14:45>
  :LOGBOOK:
    - Added: [2021-01-04 Mon 07:46]
@@ -23,22 +23,12 @@
  :LOGBOOK:
    - Added: [2021-01-04 Mon 07:56]
    :END:
-** TODO Organize desk                                                :Office:
-   SCHEDULED:<2021-01-07 Thu 16:00>
- - [ ] Process Inbox
-   - [ ] Sort wallets/binders
-   - [ ] Organize pens and notepads
- - [ ] Organize bookshelf
-   - [ ] Decide which books go in bedroom
- :LOGBOOK:
-   - Added: [2021-01-04 Mon 08:35]
-   :END:
-** TODO buy new cartridge ink/converter for Kaweco.                  :Office:
+** NEXT buy new cartridge ink/converter for Kaweco.                  :Office:
    SCHEDULED:<2021-01-08 Fri 13:22>
  :LOGBOOK:
    - Added: [2021-01-04 Mon 13:22]
    :END:
-** TODO Change Important Email
+** WAITING Change Important Email
    SCHEDULED:<2021-01-14 Thu 19:24>
  :LOGBOOK:
    - Added: [2021-01-13 Wed 19:24]
@@ -50,6 +40,22 @@
   - [ ] Samurai comics
     - [ ] Comic Hub app
   - [ ] Fanfiction.com
+** TODO Call Microsoft re Zach's Birthday Present order
+   SCHEDULED:<2021-01-19 Tue 07:00>
+ :LOGBOOK:
+   - Added: [2021-01-18 Mon 20:17]
+   :END:
+- Message reads
+  - Contact us at Microsoft support 
+We're having trouble processing your payment and we'd like to get it sorted out.
+iRtGMPqX6EOUh1pU.20
+2021/01/19 - 03:15:30 UTC
+** TODO Get Walgreens W-2
+   SCHEDULED:<2021-02-01 Mon 19:43>
+ :LOGBOOK:
+   - Added: [2021-01-21 Thu 19:43]
+   :END:
+- [ ] Call Walgreens HR to get W-2
 * Tasks
 :PROPERTIES:
 :CATEGORY: Tasks
@@ -152,8 +158,9 @@
  :LOGBOOK:
    - Added: [2020-09-20 Sun 15:50]
    :END:
-** TODO Backup wedding album to Google Photos
+** DONE Backup wedding album to Google Photos
    SCHEDULED:<2020-09-23 Wed 11:00>
+   - State "DONE"       from "TODO"       [2021-01-17 Sun 17:55]
 - Backup photos to google photos
 - Find ring photo and photo for lock screen
  :LOGBOOK:
@@ -172,6 +179,17 @@
  :LOGBOOK:
    - Added: [2020-12-30 Wed 19:05]
   
+** DONE Organize desk                                                :Office:
+   SCHEDULED:<2021-01-07 Thu 16:00>
+   - State "DONE"       from "NEXT"       [2021-01-21 Thu 19:43]
+ - [ ] Process Inbox
+   - [ ] Sort wallets/binders
+   - [ ] Organize pens and notepads
+ - [ ] Organize bookshelf
+   - [ ] Decide which books go in bedroom
+ :LOGBOOK:
+   - Added: [2021-01-04 Mon 08:35]
+   :END:
 * Notes
 :PROPERTIES:
 :CATEGORY: Notes
@@ -302,6 +320,72 @@ Use Wedding Date as combo
   - Recommended by EF Online
   :LOGBOOK:
   -ADDED: [2020-11-16 Mon 12:56]
+  :END:
+*** SOMEDAY Uncharted - Kevin J AndersonKevin J Anderson
+    :PROPERTIES:
+    :GENRE:    Sci-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: N/A
+    :END:
+  - Recommended by 
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:13]
+  :END:
+*** SOMEDAY Gun Runner - Larry Correia
+    :PROPERTIES:
+    :GENRE:    Sci-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: [2021-02-02]
+    :END:
+  - Recommended by N/A
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:18]
+  :END:
+*** SOMEDAY At the End of the Journey - Charles E. Gannon
+    :PROPERTIES:
+    :GENRE:    Sci-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: [2021-03-02]
+    :END:
+  - Recommended by 
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:21]
+  :END:
+*** SOMEDAY 1636: Calabar's War - Charles E. Gannon & Robert E. Waters
+    :PROPERTIES:
+    :GENRE:    Sci-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: [2021-04-06]
+    :END:
+  - Recommended by 
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:24]
+  :END:
+*** SOMEDAY 1637: The Peacock Throne - Eric Flint
+    :PROPERTIES:
+    :GENRE:    Sco-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: [2021-05-04]
+    :END:
+  - Recommended by 
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:27]
+  :END:
+*** SOMEDAY Monster Hunter Bloodlines - Larry Correia
+    :PROPERTIES:
+    :GENRE:    Sci-Fi
+    :EBOOK:    Yes
+    :AUDIOBOOK: No
+    :RELEASEDATE: [2021-08-04]
+    :END:
+  - Recommended by 
+  :LOGBOOK:
+  -ADDED: [2021-01-24 Sun 08:29]
   :END:
 ** Comics
 :PROPERTIES:
