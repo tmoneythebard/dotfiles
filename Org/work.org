@@ -23,8 +23,6 @@ You're a great agent Travis.  Don't doubt yourself!!
   - Reassure customer nothing looks out of place on account.
   - Be more explicit that I do not notice anything wrong.
   - Limit calls to just the issue they ask about.
-
-
 ** Call Grading
 ** Conversations
 *** Wiley F
@@ -38,12 +36,23 @@ You're a great agent Travis.  Don't doubt yourself!!
 *** Met Bonus Requirements for December 2020, January 2021.
 *** /PROMOTION/ to TSS 8 Feb. 2021, pay raise. Restructure of bonus and flat payraise also occured 1 week later.
 
-** Training
+* Training  Department
+Finished an excel spreedsheet to help document feedback given to
+agents. Solicated feedback from various supervisors and incorporated suggestions regarding tracking.
 Giving feedback to new hires during training. First week feedback should be targeted to how comfortable they feel on the phones, look for the required verbiage. Week 2 can begin adjusting metrics.
 | Week              | Metric                                                                                                                                                         |
 |-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Beginning Week    | 2 Comfortable on the phone, Do they sound confident, excited  Mandatory Verbiage, ACW                                                                          |
 | Middle/End Week 2 | Hold times/mute/: How does that impact cust. experience, How does ACW impact you, Identify Agents needing extra help Implent goals: reduce hold/ACW: 1/3, 50 % |
 | Week 3            | Continue to review calls, provide feedback, Target feedback around goals.                                                                                      |
+|                   |                                                                                                                                                                |
 
 
+* SIT
+** Links
+- [[https://markets.businessinsider.com/news/stocks/the-state-of-miscommunication-new-survey-finds-communication-gaps-across-organizations-1002369480][Business Insider]]: 2017 article about miscommunication.
+  - 47% almost alaways speak their minds. Greater proprotion do not do so.
+  - Need for accountability.
+  - Group conversations/meetings have more miscommunication.
+** Effective communication
+Effective communication is simple, clear and concise. It is not long winded or using words that the recipeants will not understand. Start with Botton Line Up Front. Begin with end goal and then provide relevant contextual details.
