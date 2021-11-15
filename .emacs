@@ -14,7 +14,6 @@
   (message "Get After It, November Foxtrot Sierra"))
 ;; package initialize and package list
 (require 'package)
-
 (add-to-list 'package-archives
 	     '("melpa" . "https://melpa.org/packages/"))
 (package-initialize)
@@ -31,7 +30,11 @@
   :ensure t
   :init
   (beacon-mode 1))
-
+;;(use-package doom-modeline
+ ;; :ensure t
+ ;; :init
+ ;; (doom-mode-line-mode 1))
+;; Doom mode line does not start this is why)
 ;; spacemacs theme
 (unless (package-installed-p 'spacemacs-theme)
   (package-refresh-contents)
@@ -77,13 +80,18 @@
  '(custom-safe-themes
    (quote
     ("b89a4f5916c29a235d0600ad5a0849b1c50fab16c2c518e1d98f0412367e7f97" "bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" default)))
+ '(doom-modeline-mode t)
  '(fci-rule-color "#383838")
+ '(mode-line-format (quote ("%e" (:eval (doom-modeline-format--main)))))
  '(org-agenda-files
    (quote
     ("c:/projects/dotfiles/Org/Calender.org" "c:/projects/dotfiles/Org/habits.org" "c:/projects/dotfiles/Org/mylife.org")))
  '(org-capture-templates
    (quote
-    (("T" "Tasks and Appointments")
+    (("w" "plot bunny here" entry
+      (file+headline "c:/projects/dotfiles/writing/story.org" "")
+      "")
+     ("T" "Tasks and Appointments")
      ("b" "Books To Read" entry
       (file+headline "c:/projects/dotfiles/Org/mylife.org" "Books")
       (file "c:/projects/dotfiles/Org/templates/tpl-books.txt"))
@@ -93,35 +101,3 @@
      ("a" "Appointment" entry
       (file+olp+datetree "c:\\projects\\dotfiles\\Org\\Calender.org" "Inbox")
       (file "c:\\projects\\dotfiles\\Org\\templates\\tpl-appt.txt")))))
- '(org-directory "~/Org")
- '(org-habit-show-habits t)
- '(org-modules
-   (quote
-    (org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m org-checklist)))
- '(org-todo-keywords
-   (quote
-    ((sequence "TODO(t)" "NEXT(n)" "SOMEDAY(s)" "WAITING(w)" "|" "CANCELLED(c!)" "DONE(d!)")
-     (type "PURCHASED(p)" "READING(r)" "DONE(E)"))))
- '(package-selected-package (quote (which-key use-package)))
- '(package-selected-packages
-   (quote
-    (org-books badger-theme spacemacs-theme use-package which-key org ebdb beacon bbdb)))
- '(pdf-view-midnight-colors (quote ("#b2b2b2" . "#292b2e"))))
- 
- '(org-default-notes-file "~\\Org\\notes.org")
- '(org-refile-targets (quote ((org-agenda-files :level . 2))))
- '(org-scheduled-delay-days 0)
- '(org-scheduled-past-days 365)
-;; Keep THIS LINE AT THE END TO OPEN FILE LAST
-
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- 
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
